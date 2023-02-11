@@ -1,0 +1,16 @@
+Instalar vite 
+
+	npm init vite@latest
+
+
+iniciar proyecto en vite
+
+	npm run dev
+
+instalar tailwind css
+
+	npm i -D tailwindcss postcss autoprefixer
+
+crear archivo tailwind.config.js
+
+	npx tailwindcss init -p
